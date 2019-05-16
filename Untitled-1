@@ -1,0 +1,5 @@
+Give users choice of viewing pre-existing list or scan for new files
+
+Scan all folders in DevProjects folder for visual studio workspace
+Ask user which project workspace they want to open
+Open file
